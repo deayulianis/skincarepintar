@@ -11,3 +11,5 @@ Fitur:
 3.*Manual Rekomendasi* : Untuk pengguna yang hanya ingin mengetahui rekomendasinya secara manual dari pengguna memilih jenis masalah kulit wajah dari dopdown.
 
 4.*Semua Produk* : Semua Produk dapat diliat.
+
+# Aplikasi dapat diakses : https://skincarepintar.streamlit.app/
